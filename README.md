@@ -1,12 +1,12 @@
 ### Welcome to My World 😺
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=17521175&show_icons=true&count_private=true&theme=swift"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=17521175&show_icons=true&count_private=true&theme=moltack"/>
 </a>
 
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17521175&layout=compact&langs_count=10&theme=swift"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17521175&layout=compact&langs_count=10&theme=gruvbox_light"/>
 </a>
 <!--
 **17521175/17521175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
